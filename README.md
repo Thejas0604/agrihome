@@ -1,6 +1,6 @@
-# AgriHome
+# AgriHome🌱
 
-![Rectangle 36](https://github.com/isuranga1/agrihome/assets/109301978/8c2a83f3-bd19-457b-b338-6864ccc8fd73)
+![presentation (1) (2) (1)](https://github.com/Thejas0604/agrihome/assets/109301978/e5fe8491-79f4-44d2-98dc-6b093b3accb4)
 
 
 ## Overview

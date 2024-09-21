@@ -7,7 +7,7 @@
 AgiHome is a revolutionary Android application, designed to bring farmers, gardeners, and buyers together on a social platform. The app facilitates a seamless connection between those cultivating fresh produce and individuals seeking quality agricultural products. AgiHome aims to empower local agriculture, foster community collaboration, and create a sustainable marketplace for growers and buyers.
 
 
-
+<!-- 
 ## Table of Contents
 
 1. [Installation](#installation)
@@ -26,8 +26,7 @@ AgiHome is a revolutionary Android application, designed to bring farmers, garde
 
 ## Technologies Used
 
-## Features
+## Features -->
 
-## Screenshots
 
 
